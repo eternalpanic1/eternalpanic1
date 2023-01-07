@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navaneeth Krishna
 - 👀 I’m interested in Machine Learning and Full Stack Development
-- 🌱 I’m currently learning ML and React.js
-- 💞️ I’m looking to collaborate on Frontend collaboration
+- 🌱 I’m currently learning backend web development
+- 💞️ I’m looking to collaborate on Web Development projects
 - 📫 Follow me on Twitter @eternalpanic1
 
 <!---
